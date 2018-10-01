@@ -51,6 +51,5 @@
 }
 
 #details {
- float:left;
- width:32%;
+column-count:3;
 }
