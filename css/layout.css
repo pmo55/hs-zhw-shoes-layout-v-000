@@ -50,8 +50,8 @@
   width:31%;
 }
 
-.details {
+#details {
  float:left; 
  width:25%;
-coluns:3;
+columns:3;
 }
