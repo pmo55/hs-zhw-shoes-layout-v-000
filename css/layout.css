@@ -42,6 +42,8 @@
 .shadow-2{
   float:left;
   width:32%;
+  margin-left:2%;
+  margin-bottom:2%;
 }
 .left {
   margin-left:0%;
